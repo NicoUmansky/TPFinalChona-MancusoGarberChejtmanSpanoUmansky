@@ -1,2 +1,1 @@
-# TPFinalChona-MancusoGarberChejtmanSpanoUmansky
- 
+ Trabajo practico final de redes neuronales, hecho con Keras y Tensorflow. Realizado por: Nicolas Umansky, Octavio Spano, Ian Garber, Bruno Mancuso y Benjamin Chejtman.
